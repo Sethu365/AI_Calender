@@ -4,10 +4,10 @@ AI-powered calendar that lets users create, update, cancel, and list events usin
 
 # Features
 
-**Create and manage events** via natural language
-**Local LLM** for intent and entity extraction
-**MCP server** ensures database operations and validation
-**Simple REST API**
+- **Create and manage events** via natural language
+- **Local LLM** for intent and entity extraction
+- **MCP server** ensures database operations and validation
+- **Simple REST API**
 
 # Setup
 
@@ -23,6 +23,6 @@ AI-powered calendar that lets users create, update, cancel, and list events usin
 
 # Notes
 
-**JWT/OAuth2 authentication** included
-**Input validation** and **rate limiting** implemented
-Fully **offline support** via local LLM
+- **JWT/OAuth2 authentication** included
+- **Input validation** and **rate limiting** implemented
+- Fully **offline support** via local LLM
