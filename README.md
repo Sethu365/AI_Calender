@@ -11,12 +11,13 @@ AI-powered calendar that lets users create, update, cancel, and list events usin
 
 # Setup
 
--> git clone https://github.com/Sethu365/AI_Calender.git
--> cd ai_calendar
--> dotnet restore
--> dotnet build
--> dotnet run --project src/Api
-
+```bash
+ git clone https://github.com/Sethu365/AI_Calender.git
+ cd ai_calendar
+ dotnet restore
+ dotnet build
+ dotnet run --project src/Api
+```
 
 **Test API** with Postman or Swagger
 
