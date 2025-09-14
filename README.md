@@ -14,8 +14,8 @@ AI-powered calendar that lets users create, update, cancel, and list events usin
 
 **Setup**
 # Clone the repository
-git clone https://github.com/your-username/ai-calendar.git
-cd ai-calendar
+git clone https://github.com/Sethu365/AI_Calender.git
+cd ai_calendar
 
 # Restore dependencies and build
 dotnet restore
